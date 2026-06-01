@@ -223,7 +223,7 @@ POST http://localhost:7000/api/comments
 ### 1. Clone Repository
 
 ```bash
-git clone 
+git clone https://github.com/VarshaSavalagi/community-discussion-forum-realtime-chat.git
 cd community-discussion-forum-realtime-chat
 ```
 
@@ -291,10 +291,3 @@ http://localhost:5173
 Developed a full-stack MERN application integrating forum discussions with real-time chat. Implemented authentication, CRUD operations, comment system, and Socket.IO-based messaging, demonstrating strong full-stack and real-time system design skills.
 
 ---
-
-
-## 🏷 Tags
-
-```
-MERN, FullStack, SocketIO, RealTime, MongoDB, React, NodeJS
-```
